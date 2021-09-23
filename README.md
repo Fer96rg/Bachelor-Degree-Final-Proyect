@@ -1,2 +1,2 @@
-# Bachelor-Degree-Thesis
-Bachelor's Degree Final Project - Industrial Engineering
+# Bachelor´s Degree Final Proyect
+
